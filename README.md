@@ -1,4 +1,4 @@
-# NFT EIP2771 Rleay ready Contract
+# NFT EIP2771 Relay ready Contract
 
 This is a very basic implementation of a NFT ERC721 TOKEN with additional EIP2771 support.
 
