@@ -1,0 +1,7 @@
+node_modules/
+contracts/dependencies
+contracts/diamond/facets/standard
+contracts/diamond/interfaces/standard
+contracts/diamond/libraries/standard
+contracts/functions
+contracts/vendor
